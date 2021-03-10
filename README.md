@@ -1,6 +1,6 @@
-## Diego Alvarado Rivera
+# Diego Alvarado Rivera
 Data Science Portfolio
 
-# [Predicting Real State Prices](https://github.com/DiegoAlvaradoRivera/DiegoAlvaradoRivera.github.io/notebooks/UCI real state valuation GAMs.nb.html)
+# [Predicting Real State Prices]
 * Estimar el precio por área de ...
 * 
