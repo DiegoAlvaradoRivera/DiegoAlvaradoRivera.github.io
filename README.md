@@ -1,4 +1,4 @@
-# Diego Alvarado Rivera
+## Diego Alvarado Rivera
 Data Science Portfolio
 
 # Predicting Real State Prices
