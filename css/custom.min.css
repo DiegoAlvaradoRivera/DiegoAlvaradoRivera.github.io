@@ -32,6 +32,10 @@ a:hover{
     max-width:662px;
     padding:0 20px}
 
+.body {
+    padding-bottom: 50px;
+}
+
 
     
 @media only screen and (max-width: 767px){
