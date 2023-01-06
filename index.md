@@ -11,4 +11,4 @@ Data Warehouse for the AdventureWorksLT implemented using Azure SQL Database and
 
 PBI dashboard for the Fire Department Calls dataset.
 
-![Fire Department Calls Dashboard](images\FDC_image.png "FDC image")
+<img src="images/DFC_image.png" width="400" height="200" align="center"/>
