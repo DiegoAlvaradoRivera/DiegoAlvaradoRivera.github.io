@@ -1,14 +1,14 @@
 
-# Personal Page
+# Diego Alvarado Rivera
 
-Welcome, this is my personal page.
+Welcome, here you can find a portfolio of my data engineering projects.
 
 ## [AdventureWorksLT DW](https://github.com/DiegoAlvaradoRivera/AdvWorksLTDW)
 
 Data Warehouse for the AdventureWorksLT implemented using Azure SQL Database and 
 Data Factory.
 
-## Fire Department Calls Dashboard
+## [Fire Department Calls Dashboard](https://github.com/DiegoAlvaradoRivera/FireDepartmentCallsPBIDashboard)
 
 PBI dashboard for the Fire Department Calls dataset. The data cleaning and 
 modelling steps are implemented using Spark and the report using Power BI in 
