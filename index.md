@@ -3,10 +3,10 @@
 
 Welcome, here you can find a portfolio of my data engineering projects.
 
-## [AdventureWorksLT DW](https://github.com/DiegoAlvaradoRivera/AdvWorksLTDW)
+## AdventureWorksLT DW
 
 Data Warehouse for the AdventureWorksLT implemented using Azure SQL Database and 
-Data Factory.
+Data Factory. [link](https://github.com/DiegoAlvaradoRivera/AdvWorksLTDW)
 
 ## [Fire Department Calls Dashboard](https://github.com/DiegoAlvaradoRivera/FireDepartmentCallsPBIDashboard)
 
