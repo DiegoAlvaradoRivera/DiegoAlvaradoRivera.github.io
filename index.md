@@ -5,6 +5,7 @@ I am a student of Information Engineering at Pacifico University, Peru.
 My principal area of interest is data engineering. 
 My abilities include Python and Scala programming, distributed computing with Spark, 
 Power BI and services of the Azure Data Platform (SQL Database, Data Factory, Pipelines).
+Here, you can find a portfolio of my projects.
 
 ## Sample Projects
 
@@ -34,7 +35,7 @@ import mode.
 - **Third place in Latin America at the DataJam Pasos Libres 2020 (LawIT team)**: 
 This competition had the goal of developing solutions to face human trafficking. 
 To this end, a predictive model was developed to forecast the number of reported 
-human trafficking cases in each of the peruvian regions for each year, taking as 
+human trafficking cases in each of the peruvian regions for each year taking as 
 inputs a number of socioeconomic indicators.
 [link](https://fundacionpasoslibres.org/primera-datajam-mundial-contra-la-trata-de-personas/)
 
