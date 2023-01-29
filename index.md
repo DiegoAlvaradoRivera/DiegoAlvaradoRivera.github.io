@@ -41,7 +41,7 @@ inputs a number of socioeconomic indicators.
 
 ## Certifications
 
-- **Databricks Certified Spark Developer**: assesses the understanding of the Spark 
+- **Databricks Certified Spark Developer (July 7, 2022)**: assesses the understanding of the Spark 
 DataFrame API and the ability to apply the Spark DataFrame API to complete basic 
 data manipulation tasks within a Spark session; and the basics of the Spark 
 architecture like execution/deployment modes, the execution hierarchy, 
@@ -49,7 +49,7 @@ fault tolerance, garbage collection, and broadcasting.
 [link](https://credentials.databricks.com/e5a9ae79-1f02-4df5-b7ac-ec8287d8ca87)
 
 
-- **Databricks Certified Advanced Data Engineer**: assesses the ability to perform 
+- **Databricks Certified Advanced Data Engineer (September 22, 2022)**:  assesses the ability to perform 
 advanced data engineering tasks. This includes an understanding of the Databricks 
 platform and developer tools like Apache Spark, Delta Lake, MLflow, and the 
 Databricks CLI and REST API. It also assesses the ability to build optimized and 
