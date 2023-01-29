@@ -4,7 +4,7 @@
 I am a student of Information Engineering at Pacifico University, Peru.
 My principal area of interest is data engineering. 
 My abilities include Python and Scala programming, distributed computing with Spark, 
-Power BI and services of the Azure Data Platform (SQL Database, Data Factory, Pipelines).
+Power BI and services of the Azure Data Platform (SQL Database, Databricks, Data Factory, Functions).
 Here, you can find a portfolio of my projects.
 
 ## Sample Projects
@@ -55,4 +55,3 @@ platform and developer tools like Apache Spark, Delta Lake, MLflow, and the
 Databricks CLI and REST API. It also assesses the ability to build optimized and 
 cleaned ETL pipelines. 
 [link](https://credentials.databricks.com/d3a7698e-0371-4743-ac1a-b66099ef0f0f)
-
