@@ -6,28 +6,6 @@ My principal area of interest is data engineering.
 My abilities include Python and Scala programming, distributed computing with Spark, 
 Power BI and services of the Azure Data Platform (SQL Database, Databricks, Data Factory).
 
-## Sample Projects
-
-- ### Adventure Works LT Data Warehouse
-
-Data Warehouse for the Adventure Works LT database implemented using Azure SQL 
-Database and Data Factory. 
-[link](https://github.com/DiegoAlvaradoRivera/AdvWorksLTDW)
-
-<p align="center">
-<img src="images/AdvWorksLTDW.png" width="400" height="300"/>
-</p>
-
-- ### Fire Department Calls Dashboard
-
-PBI dashboard for the Fire Department Calls dataset. The data cleaning and 
-modelling steps are implemented using Spark and the report using Power BI in 
-import mode. 
-[link](https://github.com/DiegoAlvaradoRivera/FireDepartmentCallsPBIDashboard)
-
-<p align="center">
-<img src="images/FDC_image.png" width="402" height="250"/>
-</p>
 
 ## Achievements
 
@@ -58,3 +36,27 @@ cleaned ETL pipelines.
 ## Online Education
 
 - **Functional Programming in Scala (June 16, 2020)**: This Coursera specialization begins from the basic building blocks of the functional paradigm and then builds up to combining these concepts to architect larger functional programs. It also explores parallel programming on multicore architectures and distibuted programming on a cluster using Apache Spark. [link](https://www.coursera.org/account/accomplishments/specialization/certificate/DZJPBXRTZS6L)
+
+
+## Sample Projects
+
+- ### Adventure Works LT Data Warehouse
+
+Data Warehouse for the Adventure Works LT database implemented using Azure SQL 
+Database and Data Factory. 
+[link](https://github.com/DiegoAlvaradoRivera/AdvWorksLTDW)
+
+<p align="center">
+<img src="images/AdvWorksLTDW.png" width="400" height="300"/>
+</p>
+
+- ### Fire Department Calls Dashboard
+
+PBI dashboard for the Fire Department Calls dataset. The data cleaning and 
+modelling steps are implemented using Spark and the report using Power BI in 
+import mode. 
+[link](https://github.com/DiegoAlvaradoRivera/FireDepartmentCallsPBIDashboard)
+
+<p align="center">
+<img src="images/FDC_image.png" width="402" height="250"/>
+</p>
