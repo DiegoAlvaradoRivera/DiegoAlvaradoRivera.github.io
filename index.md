@@ -37,15 +37,6 @@ ability to build optimized and cleaned ETL pipelines.
 
 - **Functional Programming in Scala (June 16, 2020)**: This Coursera specialization begins from the basic building blocks of the functional paradigm and then builds up to combining these concepts to architect larger functional programs. It also explores parallel programming on multicore architectures and distibuted programming on a cluster using Apache Spark. [link](https://www.coursera.org/account/accomplishments/specialization/certificate/DZJPBXRTZS6L)
 
-## Freelance Jobs
-
-- **Desktop Application for Laboratory Analysis Visualization**: This desktop application allows for the data entry, visualization, and exportation of the laboratory results of a patient.
-
-<p align="center">
-<img src="images/lab_results.png" width="400" height="200"/>
-</p>    
-
-
 ## Sample Projects
 
 - ### Adventure Works LT Data Warehouse
@@ -68,3 +59,11 @@ import mode.
 <p align="center">
 <img src="images/FDC_image.png" width="402" height="250"/>
 </p>
+
+## Freelance Jobs
+
+- **Desktop Application for Laboratory Analysis Visualization**: This desktop application allows for the data entry, visualization, and exportation of the laboratory results of a patient.
+
+<p align="center">
+<img src="images/lab_results.png" width="400" height="200"/>
+</p>   
