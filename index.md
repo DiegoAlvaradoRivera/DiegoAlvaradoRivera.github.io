@@ -50,11 +50,12 @@ ability to build optimized and cleaned ETL pipelines.
 
 - ### Adventure Works LT Data Warehouse
 
-Data Warehouse for the Adventure Works LT database implemented using Change Data Capture, Spark SQL, Delta Lake and Power BI.
+Data Warehouse for the AdventureWorksLT database implemented using SQL Database, CDC, Databricks y Power BI.
+
 [link](https://github.com/DiegoAlvaradoRivera/AdventureWorksLTDW)
 
 <p align="center">
-<img src="images/AdvWorksLT_PowerBIModelView.png" width="400" height="300"/>
+<img src="images/AdvWorksLTDW.png" width="400" height="300"/>
 </p>
 
 - ### Fire Department Calls Dashboard
